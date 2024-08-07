@@ -21,3 +21,8 @@ If for some reason you want to stop it and don't want to close your browser, typ
 It will download each file, and name each one its respective date, rather than the archive ID. 
 It will put them into the downloads folder. 
 
+
+
+
+If I saved you a few minutes (time is money), consider donating, but this is never required: 
+ltc: LW3s8qAXRcwWNP3DJ96kCrkm3sHBRMzpWu
