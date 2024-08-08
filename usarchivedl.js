@@ -29,7 +29,7 @@ async function processCurrentPage() {
     const rows = Array.from(document.querySelectorAll('.table-cell-item'));
     
     for (let i = 0; i < rows.length; i += 2) {
-        if (!isDownloading) break;  // Stop if the flag is false
+        if (!isDownloading) break;
         
         const dateElement = rows[i].querySelector('.weight-semibold');
         const linkElement = rows[i + 1].querySelector('a[href^="https://stake.us/_api/archive/"]');
