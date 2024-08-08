@@ -31,7 +31,7 @@ It will download each file, and name each one its respective date, rather than t
 
 It will put them into the downloads folder. 
 
-# URL Downloader Tool
+# URL Downloader Tool (archiveurlcollector.js)
 
 This version of the tool ONLY downloads the respective urls that the archives will come from. This is useful if you just want to mass download them later.
 
