@@ -31,9 +31,23 @@ It will download each file, and name each one its respective date, rather than t
 
 It will put them into the downloads folder. 
 
+# URL Downloader Tool
+
+This version of the tool ONLY downloads the respective urls that the archives will come from. This is useful if you just want to mass download them later.
+
+As long as you have the URLs, you don't need cookie authorization, so be careful who you give everything to if you don't want them to have your bet archive data. The only personal information within these files, as far as I understand, is the IP of the bet location. 
+
+# Information about the bet archives
+
+These come in json files and some are extremely long, and need to be parsed more easily using a json formatter or some filtering tool. 
+
+[As an example, you could do something like this, where you find all of the dragon tower results from the file, and summarize them more elegantly.](https://github.com/rubyatmidnight/provably/blob/main/dragontowerjsonextract.py)
 
 
+- rubyatmidnight
 
 If I saved you a few minutes (time is money), consider donating, but this is never required: 
 
 ltc: LW3s8qAXRcwWNP3DJ96kCrkm3sHBRMzpWu
+
+disclaimer: yeah i had ai do some of it hehe
