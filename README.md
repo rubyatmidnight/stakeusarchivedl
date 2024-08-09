@@ -43,6 +43,10 @@ These come in json files and some are extremely long, and need to be parsed more
 
 [As an example, you could do something like this, where you find all of the dragon tower results from the file, and summarize them more elegantly.](https://github.com/rubyatmidnight/provably/blob/main/dragontowerjsonextract.py)
 
+An online tool can also be used, like the [Stake Stats bet archive analyzer](https://stakestats.net/stake/tools/betarchive), but I in general suggest privacy. 
+
+![image](https://github.com/user-attachments/assets/6fbd544a-a4f5-4d49-8452-da01d159065f)
+
 
 - rubyatmidnight
 
